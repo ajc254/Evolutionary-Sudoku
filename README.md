@@ -65,4 +65,3 @@ Specific commands used for experiments:
 
 NOTE:
     If you wish to see details of the algorithm running for any of the above runs, change the final '0' to a '1'.
-    You may need to adjust 'python' to your version accordingly (written in version 3)
