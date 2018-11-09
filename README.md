@@ -1,5 +1,4 @@
 # Evolutionary-Sudoku
-(Year 2) Evolutionary algorithm to solve a sudoku grid
 
 Manual for EvolSudoku.py
 
